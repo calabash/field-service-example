@@ -39,6 +39,7 @@ namespace FieldService.iOS
 		/// </summary>
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
+
 			//Create our window
 			window = new UIWindow(UIScreen.MainScreen.Bounds);
 
