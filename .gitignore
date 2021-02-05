@@ -7,3 +7,4 @@ Thumbs.db
 bin
 obj
 test-results
+FieldService/Gemfile.lock
